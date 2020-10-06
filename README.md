@@ -1,3 +1,3 @@
 # Instrução
 
-sudo ./italo_instalacao.sh
+sudo ./intalacao_completa.sh
